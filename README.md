@@ -1,7 +1,5 @@
 # ZHA Controlled Hue Dimmer Switch
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs) [![homeassistant_community](https://img.shields.io/badge/HA%20community-forum-brightgreen)](https://community.home-assistant.io/) 
-
-<a href="https://www.buymeacoffee.com/so3n" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+**_NOTE: This app is no longer being updated. Check out [ControllerX](https://github.com/xaviml/controllerx) instead_**
 
 Fully customize the buttons on a ZHA controlled Philips Hue Dimmer Switch.
   
@@ -91,9 +89,4 @@ This advanced config customizes the buttons on the Hue Dimmer Switch as follows:
 * `ON` button toggles kitchen light on/off. When turned on the light is set to full brightness and 4000 kelvin color temp.
 * `INCREASE BRIGHTNESS` button toggles dining light on/off. When turned on the light is set to full brightness and 3500 kelvin color temp.
 * `DECREASE BRIGHTNESS` button toggles living room light on/off. When turned on, color of light is red.
-* `OFF` button cycles through the following settings with each button press: 1) 33% brightness 3000 kelvin; 2) 67% brightness 3000 kelvin; 3) 100% brightness 3000 kelvin; and 4) off.
-
-
-<hr/>
-
-<a href="https://www.buymeacoffee.com/so3n" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+* `OFF` button cycles through the following settings with each button press: 1) 33% brightness 3000 kelvin; 2) 67% brightness 3000 kelvin; 3) 100% brightness 3000 kelvin; and 4) off
